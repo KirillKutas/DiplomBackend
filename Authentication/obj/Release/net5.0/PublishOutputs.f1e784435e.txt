@@ -1,0 +1,41 @@
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\Authentication.exe
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\Authentication.dll
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\Authentication.deps.json
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\Authentication.runtimeconfig.json
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\Authentication.pdb
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Logging.dll
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.dll
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\System.Configuration.ConfigurationManager.dll
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\System.Data.OleDb.dll
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\System.Data.SqlClient.dll
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\System.Diagnostics.PerformanceCounter.dll
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\System.DirectoryServices.dll
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\FndUtils.dll
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\Ogen 2.0.BL.dll
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\Ogen 2.0.Models.dll
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\Ogen 2.0.BL.pdb
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\FndUtils.pdb
+C:\Ogen 2.0\Backend\Authentication\obj\Release\net5.0\PubTmp\Out\Ogen 2.0.Models.pdb

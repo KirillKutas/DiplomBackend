@@ -1,0 +1,9 @@
+E:\Labs\Diplom\Backend\ViewModels\bin\Debug\netcoreapp3.1\ViewModels.deps.json
+E:\Labs\Diplom\Backend\ViewModels\bin\Debug\netcoreapp3.1\ViewModels.dll
+E:\Labs\Diplom\Backend\ViewModels\bin\Debug\netcoreapp3.1\ViewModels.pdb
+E:\Labs\Diplom\Backend\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.csprojAssemblyReference.cache
+E:\Labs\Diplom\Backend\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.AssemblyInfoInputs.cache
+E:\Labs\Diplom\Backend\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.AssemblyInfo.cs
+E:\Labs\Diplom\Backend\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.csproj.CoreCompileInputs.cache
+E:\Labs\Diplom\Backend\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.dll
+E:\Labs\Diplom\Backend\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.pdb

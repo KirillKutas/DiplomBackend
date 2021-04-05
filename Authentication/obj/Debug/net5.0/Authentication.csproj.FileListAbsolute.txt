@@ -122,3 +122,4 @@ E:\Labs\Diplom\Backend\Authentication\bin\Debug\net5.0\DbProject.dll
 E:\Labs\Diplom\Backend\Authentication\bin\Debug\net5.0\DbProject.pdb
 E:\Labs\Diplom\Backend\Authentication\bin\Debug\net5.0\ViewModels.dll
 E:\Labs\Diplom\Backend\Authentication\bin\Debug\net5.0\ViewModels.pdb
+E:\Labs\Diplom\Backend\Authentication\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Facebook.dll

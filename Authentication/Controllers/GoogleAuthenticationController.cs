@@ -3,8 +3,8 @@ using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authentication.Google;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using System.Linq;
 using System.Threading.Tasks;
+using Authentication.Helpers;
 using DbProject.Helpers;
 using ViewModels.Authentication;
 
@@ -37,29 +37,18 @@ namespace Authentication.Controllers
         {
             var result = await HttpContext.AuthenticateAsync(CookieAuthenticationDefaults.AuthenticationScheme);
 
-            string userName = result.Principal.Identities
-                .FirstOrDefault().Claims.FirstOrDefault(item =>
-                    item.Type.Equals("http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name")).Value;
-            string firstName = result.Principal.Identities
-                .FirstOrDefault().Claims.FirstOrDefault(item =>
-                    item.Type.Equals("http://schemas.xmlsoap.org/ws/2005/05/identity/claims/givenname")).Value;
-            string lastName = result.Principal.Identities
-                .FirstOrDefault().Claims.FirstOrDefault(item =>
-                    item.Type.Equals("http://schemas.xmlsoap.org/ws/2005/05/identity/claims/surname")).Value;
-            string email = result.Principal.Identities
-                .FirstOrDefault().Claims.FirstOrDefault(item =>
-                    item.Type.Equals("http://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress")).Value;
+            var data = AuthResultParser.Parse(result);
 
-            var user = await _service.CheckExistUser(email);
+            var user = await _service.CheckExistUser(data.Email);
             if (user == null)
             {
                 user = await _service.Registration(new RegistrationViewModel
                 {
-                    Email = email,
-                    FirstName = firstName,
-                    LastName = lastName,
-                    Password = firstName + lastName + userName,
-                    UserName = userName
+                    Email = data.Email,
+                    FirstName = data.FirstName,
+                    LastName = data.LastName,
+                    Password = data.FirstName + data.LastName + data.UserName,
+                    UserName = data.UserName
                 });
             }
 
